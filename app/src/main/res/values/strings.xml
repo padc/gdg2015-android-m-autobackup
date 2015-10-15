@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GDG DevFest 2015 Backup Demo</string>
+    <string name="save">Save</string>
 </resources>
