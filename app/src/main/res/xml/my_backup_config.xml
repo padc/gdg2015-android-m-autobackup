@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <full-backup-content>
 
+    <!--<include domain="sharedpref" path="data_pref"/>-->
+    <exclude domain="sharedpref" path="data_pref"/>
+
 </full-backup-content>
